@@ -1,4 +1,4 @@
-# fltter-cryptos
+# flutter-cryptos
 
 A new Flutter project.
 
